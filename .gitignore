@@ -4,5 +4,7 @@ node_modules/
 # Ignore environment variables
 .env
 
+.env.local
+
 # Ignore package-lock.json (if not needed in version control)
 package-lock.json
